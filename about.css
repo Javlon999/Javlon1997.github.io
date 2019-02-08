@@ -1,0 +1,32 @@
+body {
+	background-color: silver;
+}
+h1, h2 {
+	color: blue;
+	font-family: Verdana;
+	text-align: center;
+	font-weight: bold;
+}
+h1{
+	font-size: 22px;
+
+}
+h2{
+	font-size: 16px;
+}
+p{
+	font-size: 13px;
+	font-family: Verdana;
+}
+img{
+	height: 150px;
+	width: 150px;
+}
+a{
+	text-decoration: none;
+	color: #0000CC;
+}
+a:hover { cursor: pointer; }
+h3{
+	color: red;
+}
